@@ -9,7 +9,7 @@ def guided(model):
 
     Args:
         model: The `keras.models.Model` instance whose gradient computation needs to be overridden.
-
+source
     References:
         Details on guided back propagation can be found in paper: [String For Simplicity: The All Convolutional Net]
         (https://arxiv.org/pdf/1412.6806.pdf)
